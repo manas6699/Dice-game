@@ -4,4 +4,5 @@ Play this game at :
 https://manas6699.github.io/Dice-game/
 
 
-https://github.com/manas6699/Dice-game/blob/master/Screenshot%20(15).png?raw=true
+![image](https://user-images.githubusercontent.com/78929050/163526496-402d1c17-a0f9-4017-9019-fecd862abb19.png)
+
